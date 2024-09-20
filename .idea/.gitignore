@@ -1,0 +1,8 @@
+# Default ignored files
+/../../BankAccount /.idea/shelf/
+/../../BankAccount /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../BankAccount /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../BankAccount /.idea/dataSources/
+/../../BankAccount /.idea/dataSources.local.xml
